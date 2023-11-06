@@ -26,6 +26,8 @@ public Class Jao{
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
 </p>
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoSousa9&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaoSousa9&show_icons=true&theme=dark)
 <!--
 **JaoSousa9/JaoSousa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
