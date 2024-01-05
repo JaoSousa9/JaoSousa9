@@ -16,8 +16,6 @@ public Class Jao{
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-Welcome to my GitHub profile! I'm António Durão, a passionate developer with a love for coding and a curiosity for new technologies. Currently exploring the realms of Java, JavaScript, HTML, and CSS. 🚀
-
 <details>
   <summary>GitHub Stats 📊 </summary>
   <div align="center">
