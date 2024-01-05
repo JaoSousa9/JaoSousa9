@@ -51,7 +51,7 @@ When I'm not immersed in code, you can find me:
 Feel free to reach out if you share similar interests, have project ideas, or just want to chat. Connect with me on
 
 
-<a target="_blank" href="[Johny](https://www.linkedin.com/in/joaosousa19/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/joaosousa19/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a target="_blank" href="mailto:joao.bernardo.s10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://wa.me/+351927366000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <p align="center">
