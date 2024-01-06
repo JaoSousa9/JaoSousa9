@@ -36,7 +36,7 @@ public Class Jao{
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,powershell,git,maven,vim,postman&theme=dark)](https://skillicons.dev)
 ###  🌱 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,unity,wasm&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=threejs,vue,solidjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs,react&theme=dark)](https://skillicons.dev)
 
 ## 🎮 Hobbies
 
