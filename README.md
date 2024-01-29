@@ -42,7 +42,7 @@ When I'm not immersed in code, you can find me:
 - Playing Volleyball & Running
 - Playing Games
 - Writing anything
-- Readind 
+- Reading
 
 ## 📫 Let's Connect!
 Feel free to reach out if you share similar interests, have project ideas, or just want to chat. Connect with me on
